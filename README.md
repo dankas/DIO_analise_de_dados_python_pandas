@@ -28,15 +28,15 @@ Me concentrei  no trabalho com excel e análise exploratória.     Aproveitei pa
 
 ### Exemplos Gráficos Exportados:
 
-![](https://github.com/dankas/DIO_analise_de_dados_python_pandas/Graf_Salvos/graficobar_TOTALVENDA_vs_MES.png)
+![](https://raw.githubusercontent.com/dankas/DIO_analise_de_dados_python_pandas/main/Graf_Salvos/graficobar_TOTALVENDA_vs_MES.png)
 
-![](https://github.com/dankas/DIO_analise_de_dados_python_pandas/Graf_Salvos/graficopie_TOTALVENDA_vs_MES.png)
+![](https://raw.githubusercontent.com/dankas/DIO_analise_de_dados_python_pandas/main/Graf_Salvos/graficopie_TOTALVENDA_vs_MES.png)
 
-![](https://github.com/dankas/DIO_analise_de_dados_python_pandas/Graf_Salvos/grafico_TOTALPROD_vs_MES.png)
+![](https://raw.githubusercontent.com/dankas/DIO_analise_de_dados_python_pandas/main/Graf_Salvos/grafico_TOTALPROD_vs_MES.png)
 
-![](https://github.com/dankas/DIO_analise_de_dados_python_pandas/Graf_Salvos/grafico_hist.png)
+![](https://raw.githubusercontent.com/dankas/DIO_analise_de_dados_python_pandas/main/Graf_Salvos/grafico_hist.png)
 
-![](https://github.com/dankas/DIO_analise_de_dados_python_pandas/Graf_Salvos/grafico_scater.png)
+![](https://raw.githubusercontent.com/dankas/DIO_analise_de_dados_python_pandas/main/Graf_Salvos/grafico_scater.png)
 
 ### Documentação Consultadas:
 
