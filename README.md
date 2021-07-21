@@ -28,15 +28,15 @@ Me concentrei  no trabalho com excel e análise exploratória.     Aproveitei pa
 
 ### Exemplos Gráficos Exportados:
 
-![](E:\Git\DIO_analise_de_dados_python_pandas\Graf_Salvos\graficobar_TOTALVENDA_vs_MES.png)
+![](Graf_Salvos\graficobar_TOTALVENDA_vs_MES.png)
 
-![](E:\Git\DIO_analise_de_dados_python_pandas\Graf_Salvos\graficopie_TOTALVENDA_vs_MES.png)
+![](Graf_Salvos\graficopie_TOTALVENDA_vs_MES.png)
 
-![](E:\Git\DIO_analise_de_dados_python_pandas\Graf_Salvos\grafico_TOTALPROD_vs_MES.png)
+![](Graf_Salvos\grafico_TOTALPROD_vs_MES.png)
 
-![](E:\Git\DIO_analise_de_dados_python_pandas\Graf_Salvos\grafico_hist.png)
+![](Graf_Salvos\grafico_hist.png)
 
-![](E:\Git\DIO_analise_de_dados_python_pandas\Graf_Salvos\grafico_scater.png)
+![](Graf_Salvos\grafico_scater.png)
 
 ### Documentação Consultadas:
 
